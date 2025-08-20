@@ -53,3 +53,13 @@ Alpha has park mark.
 Alpha has park cross.
 
 Alpha has major.
+
+Alpha has major on rate.
+
+Alpha has major on range.
+
+Alpha has major on class.
+
+Alpha has major on any.
+
+Alpha has major on apply.
