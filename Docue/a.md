@@ -65,3 +65,5 @@ Alpha has major on any.
 Alpha has major on apply.
 
 Alpha has major on park.
+
+Alpha has major on tier.
