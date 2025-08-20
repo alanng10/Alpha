@@ -73,3 +73,5 @@ Alpha has major on general.
 Alpha has major on level.
 
 Alpha has major on gain.
+
+Alpha has major on sera.
