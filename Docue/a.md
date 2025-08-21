@@ -74,6 +74,6 @@ Alpha has major on leve.
 
 Alpha has major on sera.
 
-Alpha has major on live.
-
 Alpha has major on gain.
+
+Alpha has major on live.
